@@ -4,17 +4,17 @@
     "/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/html; charset=UTF-8",
-      "X-Reply": "openedu"
+      "X-Reply": "textil24"
     },
     "/sample/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Reply": "openedu"
+      "X-Reply": "textil24"
     },
     "/login/*": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8",
-      "X-Reply": "openedu"
+      "X-Reply": "textil24"
     }    
   }    
 }
